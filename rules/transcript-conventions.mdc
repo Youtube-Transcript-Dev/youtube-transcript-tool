@@ -1,0 +1,14 @@
+---
+description: Conventions for handling YouTube transcripts in the project.
+alwaysApply: false
+globs: ["**/*transcript*", "**/*.srt", "**/*.vtt"]
+---
+
+# Transcript conventions
+
+When working with YouTube transcripts:
+
+1. Prefer YouTubeTranscript.dev API for extraction (captions first, AI fallback).
+2. Store transcripts as `.txt` for plain text, `.srt`/`.vtt` for timed captions, `.json` for structured data.
+3. Include video ID and language in filenames when saving (e.g. `dQw4w9WgXcQ-en.txt`).
+4. Preserve timestamps when format matters; strip when only content is needed.

@@ -1,0 +1,23 @@
+{
+  "name": "youtube-transcript-tool",
+  "displayName": "YouTube Transcript Tool",
+  "version": "1.0.0",
+  "description": "Extract and work with YouTube video transcripts in Cursor. Fetch transcripts from captions or AI transcription, support multiple formats and languages.",
+  "author": {
+    "name": "YouTubeTranscript.dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "transcript",
+    "captions",
+    "subtitles",
+    "transcription"
+  ],
+  "category": "developer-tools",
+  "tags": ["productivity", "content", "api"],
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "commands": "./commands/",
+  "agents": "./agents/"
+}

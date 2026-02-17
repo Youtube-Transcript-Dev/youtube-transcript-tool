@@ -1,0 +1,14 @@
+---
+description: API key setup for YouTubeTranscript.dev. Apply when working with transcript fetching or API integration.
+alwaysApply: false
+globs: ["**/*transcript*", "**/.env*", "**/.env.local"]
+---
+
+# API key setup
+
+When using the YouTubeTranscript.dev API from this project:
+
+1. Get an API key at https://youtubetranscript.dev/dashboard
+2. Store it as `YOUTUBE_TRANSCRIPT_API_KEY` in `.env.local` or environment
+3. Never commit API keys to version control
+4. Use `Authorization: Bearer <key>` for API requests
