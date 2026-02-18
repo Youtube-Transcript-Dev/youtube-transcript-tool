@@ -6,6 +6,8 @@
   "author": {
     "name": "YouTubeTranscript.dev"
   },
+  "homepage": "https://youtubetranscript.dev",
+  "repository": "https://github.com/Youtube-Transcript-Dev/youtube-transcript-tool",
   "license": "MIT",
   "keywords": [
     "youtube",
