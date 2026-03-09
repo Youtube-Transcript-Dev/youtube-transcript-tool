@@ -16,7 +16,7 @@ Cursor plugin for extracting and working with YouTube video transcripts. Integra
 
 ## Setup
 
-1. Get an API key at [youtubetranscript.dev/dashboard](https://youtubetranscript.dev/dashboard)
+1. Get an API key at [youtubetranscript.dev/dashboard](https://www.youtubetranscript.dev/dashboard)
 2. Add to your environment: `YOUTUBE_TRANSCRIPT_API_KEY=yt_sk_live_...`
 
 ## Components
@@ -54,8 +54,8 @@ Cursor plugin for extracting and working with YouTube video transcripts. Integra
 
 ## Links
 
-- [YouTubeTranscript.dev](https://youtubetranscript.dev)
-- [API docs](https://youtubetranscript.dev/api-docs)
+- [YouTubeTranscript.dev](https://www.youtubetranscript.dev)
+- [API docs](https://www.youtubetranscript.dev/api-docs)
 
 ## License
 
