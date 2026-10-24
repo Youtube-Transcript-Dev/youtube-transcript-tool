@@ -23,7 +23,7 @@ You are a YouTube transcript specialist. When invoked, help users extract and wo
   - Body: `{ "video": "VIDEO_ID", "language": "en", "source": "auto", "format": { "timestamp": true } }`
   - Requires: `Authorization: Bearer <API_KEY>`
   - Get API key at: https://youtubetranscript.dev/dashboard
-- **Fetch existing**: `GET /api/v1/transcripts/VIDEO_ID` (for user-owned transcripts)
+- **Fetch existing**: `GET /api/v2/transcripts/VIDEO_ID` (for user-owned transcripts)
 
 ## Workflow
 
